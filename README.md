@@ -57,6 +57,42 @@ The project demonstrates practical deployment of modern deep learning-based obje
 
 ---
 
+## Detection Examples
+
+### Bottle Detection
+
+![Bottle detected by YOLOv8](outputs/screenshots/Bottle_yolo_detection_20260724_201735.png)
+
+### Cell Phone Detection
+
+![Cell phone detected by YOLOv8](outputs/screenshots/CellPhone_yolo_detection_20260724_201402.png)
+
+### Clock Detection
+
+![Clock detected by YOLOv8](outputs/screenshots/Clock_yolo_detection_20260724_201639.png)
+
+### Orange Detection
+
+![Orange detected by YOLOv8](outputs/screenshots/Orange_yolo_detection_20260724_201729.png)
+
+### Person Detection
+
+![Person detected by YOLOv8](outputs/screenshots/Person_yolo_detection_20260724_201921.png)
+
+### Potted Plant and Vase Detection
+
+![Potted plant and vase detected by YOLOv8](outputs/screenshots/Plant_yolo_detection_20260724_201416.png)
+
+### Remote Detection
+
+![Remote detected by YOLOv8](outputs/screenshots/Remote_yolo_detection_20260724_201438.png)
+
+### Misclassification Example
+
+The model classified a lime as a sports ball. This example demonstrates a limitation of using a general-purpose pretrained COCO model.
+
+![Lime classified as a sports ball](outputs/screenshots/Sportsball_yolo_detection_20260724_201721.png)
+
 ## Repository Structure
 
 ```
