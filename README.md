@@ -33,7 +33,7 @@ Unlike offline image classification examples, this implementation focuses on an 
 - Runtime performance monitoring
 - Screenshot capture
 - Detection analytics
-- Performance logging
+- Performance loggin
 
 The project demonstrates practical deployment of modern deep learning-based object detection on consumer hardware.
 
