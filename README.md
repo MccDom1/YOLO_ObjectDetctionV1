@@ -27,7 +27,7 @@ This project implements a real-time object detection pipeline using the **Ultral
 
 Unlike offline image classification examples, this implementation focuses on an end-to-end deployment workflow including:
 
-- Live webcam inferenc
+- Live webcam inference
 - Multi-object detection
 - Automatic object labeling
 - Runtime performance monitoring
