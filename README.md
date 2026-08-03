@@ -21,7 +21,7 @@ Real-time object detection using YOLOv8, OpenCV, and a MacBook webcam.
 
 ---
 
-## Overvie
+## Overview
 
 This project implements a real-time object detection pipeline using the **Ultralytics YOLOv8** model and **OpenCV**. The application performs live inference using a webcam, detects objects from the COCO dataset, overlays bounding boxes and confidence scores, and records runtime performance metrics.
 
