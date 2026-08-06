@@ -2,7 +2,7 @@
 
 # YOLO Real-Time Object Detection
 
-Real-time object detection using YOLOv8, OpenCV, and a MacBook webcam
+Real-time object detection using YOLOv8, OpenCV, and a MacBook webcam.
 
 ## Project Resources
 
