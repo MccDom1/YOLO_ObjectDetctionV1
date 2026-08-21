@@ -4,7 +4,7 @@
 
 Real-time object detection using YOLOv8, OpenCV, and a MacBook webcam.
 
-## Project Resource
+## Project Resources
 
 - 📄 IEEE Paper
 - 💻 Source Code
