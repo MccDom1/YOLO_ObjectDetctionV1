@@ -30,7 +30,7 @@ Unlike offline image classification examples, this implementation focuses on an 
 - Live webcam inference
 - Multi-object detection
 - Automatic object labeling
-- Runtime performance monitorin
+- Runtime performance monitoring
 - Screenshot capture
 - Detection analytics
 - Performance logging
