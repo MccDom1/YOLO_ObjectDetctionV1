@@ -6,10 +6,10 @@ Real-time object detection using YOLOv8, OpenCV, and a MacBook webcam.
 
 ## Project Resources
 
-- 📄 IEEE Paper
+- 📄 IEEE Papers
 - 💻 Source Code
 - 📊 Runtime Metrics
-- 🖼 Detection Examples
+- 🖼 Detection Example
 
 > High-performance real-time object detection using YOLOv8, OpenCV, and Python with live webcam inference, runtime performance monitoring, automatic screenshot capture, and detection analytics.
 
